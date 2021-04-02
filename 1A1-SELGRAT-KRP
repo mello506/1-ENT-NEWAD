@@ -23,23 +23,23 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]CLIQUE AQUI PARA MELHORAR O DESEMPENHO[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/mello506/REPOINFOS/master/3-INFORMACOES </externallink>
-<thumbnail>https://i.ibb.co/VJv0L6N/desempnho.png</thumbnail>
-<fanart>http://bit.do/entrarfanart</fanart>
-<info>AGRADECEMOS SUA VISITA</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channels>
-<channel>
 <name>[COLOR white][B]CLIQUE AQUI PARA DICAS DE NAVEGAÇÃO [/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/mello506/REPOINFOS/master/DICASDENAVEGASAO</externallink>
 <thumbnail>https://i.ibb.co/8gLxcnv/informativolinks.png</thumbnail>
 <fanart>https://i.ibb.co/hXGKrVJ/fanart-JARVIS.jpg</fanart>
 <info>[COLOR white]COR BRANCA - LINK ON LINE[/COLOR] - [COLOR orange]COR LARANJA - SEM LINK[/COLOR]
 [COLOR red]COR VERMELHA - LINK OFF LINE[/COLOR] - [COLOR white]REPORTE LINKS OFF LINE[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR white][B]CLIQUE AQUI PARA MELHORAR O DESEMPENHO[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/mello506/REPOINFOS/master/3-INFORMACOES </externallink>
+<thumbnail>https://i.ibb.co/VJv0L6N/desempnho.png</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>AGRADECEMOS SUA VISITA</info>
 </channel>
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
