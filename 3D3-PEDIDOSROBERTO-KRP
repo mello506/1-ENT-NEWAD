@@ -31,9 +31,14 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <link>http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/26225.mp4</link>	
 <thumbnail>https://i.ibb.co/BfRrLxh/Server-1-2.png</thumbnail> <fanart>https://i.ibb.co/wYtwjTg/fanart.jpg</fanart> </item>
 
-<title>[COLOR white][B]El Cid (1961)[/B][/COLOR]</title>	
-<link>http://main.chopp.me:80/movie/Cirino123/Cirino321/76940.mp4</link>	
-<thumbnail>https://i.ibb.co/6mcCQf1/Server-2-2.png</thumbnail> <fanart>https://i.ibb.co/wYtwjTg/fanart.jpg</fanart> </item>
+<item>
+<title>[B][COLOR white]El Cid - 1961 - 1080 - Dublado[/COLOR][/B]</title>
+<thumbnail>https://image.tmdb.org/t/p/original/2CKcPo2M9pejF3Vi7PBHPVw5Eei.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/n7R8fy38YSfLxvbNZypisunWmxt.jpg</fanart>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1CpS1Xxi9VC7jLkB1kB7rMkCwZyKNmpcf/view</link>
+<info>Filme épico sobre o lendário herói espanhol Rodrigo Diaz de Bivar, "El Cid" para os seus seguidores, que, sem comprometer o seu rigoroso sentido de honra, consegue tomar a iniciativa e expulsar os mouros da Espanha cristã.</info>
+<genre>ÉPICOS</genre>
+</item>
 
 <item>
 <title>[B][COLOR white]Ben-Hur - 2016 -1080 - Dublado[/COLOR][/B]</title>
