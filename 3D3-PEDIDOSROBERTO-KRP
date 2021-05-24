@@ -83,8 +83,11 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
 <title>[COLOR white][B]Taken - 2017 [/B][/COLOR]</title>
+
 <link>plugin://plugin.video.youtube/play/?video_id=<LINKDOTRAILER>$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Taken[/B][/COLOR]</link>
+
 <link>NOLINK$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR orange] Temporada 01 - DUB[/B][/COLOR]</link>
+
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:30eb06b72c47e0c9807b3c40bd7b865d029f3425$$lsname=[COLOR orange][B]HD[COLOR yellow] -> [COLOR white]Taken - DUB [/B][/COLOR]</link>
 
 link>plugin://plugin.video.elementum/play?uri=<LINKTORRENT1080>$$lsname=[COLOR orange][B]FHD[COLOR yellow] -> [COLOR white]Taken - LEG [/B][/COLOR]</link>
@@ -98,8 +101,11 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
 <title>[COLOR white][B]Carga Explosiva - A Série - 2013 [/B][/COLOR]</title>
+
 <link>plugin://plugin.video.youtube/play/?video_id=MFY6t2KRtq0$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Carga Explosiva - A Serie[/B][/COLOR]</link>
+
 <link>NOLINK$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR orange] Temporada 01 - DUB[/B][/COLOR]</link>
+
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:A45621B75564BBCB571DB9F02424B085DBD9535B&dn=%5bWWW.BLUDV.TV%5d%20Carga%20Explosiva%20-%20A%20Serie%20-%201%c2%aa%20Temporada%20Completa%20%28720p%29%20Acesse%20o%20ORIGINAL%20WWW.BLUDV.TV$$lsname=[COLOR orange][B]HD[COLOR yellow] -> [COLOR white]Carga Explosiva - A Serie - DUB [/B][/COLOR]</link>
 
 link>plugin://plugin.video.elementum/play?uri=<LINKTORRENT1080>$$lsname=[COLOR orange][B]FHD[COLOR yellow] -> [COLOR white]Carga Explosiva - A Serie - DUB [/B][/COLOR]</link>
@@ -111,3 +117,34 @@ link>plugin://plugin.video.elementum/play?uri=<LINKTORRENT1080>$$lsname=[COLOR o
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
+<item>
+<title>[COLOR white][B]O Confronto - 2001 [/B][/COLOR]</title>
+
+<link>plugin://plugin.video.youtube/play/?video_id=LiFZM4huHi0$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]O Confronto[/B][/COLOR]</link>
+
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:48E47FD736BD024794F5827583AFDFDB07222D81&dn=O%20Confronto%202001%205.1%20%28720p%29%20LAPUMiA&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.trackerfix.com%3a82%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.leechers-paradise.org%3a6969%2fannounce&tr=udp%3a%2f%2feddie4.nl%3a6969%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=udp%3a%2f%2fzer0day.ch%3a1337%2fannounce$$lsname=[COLOR orange][B]HD[COLOR yellow] -> [COLOR white]O Confronto - DUB [/B][/COLOR]</link>
+
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:45B9794D15F3390298EC8D9DCF5C00C54DA13FC9&dn=O%20Confronto%202001%205.1%20%281080p%29%20LAPUMiA&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.trackerfix.com%3a82%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.leechers-paradise.org%3a6969%2fannounce&tr=udp%3a%2f%2feddie4.nl%3a6969%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=udp%3a%2f%2fzer0day.ch%3a1337%2fannounce$$lsname=[COLOR orange][B]FHD[COLOR yellow] -> [COLOR white]O Confronto - DUB [/B][/COLOR]</link>
+
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/74K8HmqhYv9RE97Buqt8N1NDvo3.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/f1yGAutKvIgACliA6SZYCrbFvSD.jpg</fanart>
+<info>Não existe um só universo, existem muitos. Foi criada uma tecnologia para viajar através destes universos, mas a viagem é muito restrita e controlada. Da mesma forma existem várias versões de cada pessoa, cada uma habitando no tempo presente um destes mundos paralelos. O equilíbrio neste sistema sempre foi mantido, mas Gabriel Yulaw quer destruí-lo para que possa se tornar o Único e absorver a força de suas versões pelos diversos universos.</info>
+<genre>FICÇÃO E FANTASIA</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR white][B]O Mestre das Armas - 2006 [/B][/COLOR]</title>
+
+<link>plugin://plugin.video.youtube/play/?video_id=b6zDhriKd1E$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]O Mestre das Armas[/B][/COLOR]</link>
+
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:84D2E95EC481D31F5790BF8ACBF68BB04380C654&dn=O%20Mestre%20das%20Armas%20%282006%29%20BRrip%20Blu-Ray%20720p%20Dublado%20-%20Wellington%20Torrent&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.ccc.de%3a80%2fannounce$$lsname=[COLOR orange][B]HD[COLOR yellow] -> [COLOR white]O Mestre das Armas - DUB [/B][/COLOR]</link>
+
+link>plugin://plugin.video.elementum/play?uri=<LINKTORRENT1080>$$lsname=[COLOR orange][B]FHD[COLOR yellow] -> [COLOR white]O Mestre das Armas - DUB [/B][/COLOR]</link>
+
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gJqsKqmQoDJKUEQoHq6I0cj9hJy.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/qwU5ggsb41pkmnxjQoWeJKgMRN5.jpg</fanart>
+<info>Após uma terrível tragédia, um lutador de artes marciais isola-se em uma vila remota com o intuito de desenvolver uma nova visão das coisas importantes da vida. Porém, quando ele retorna para a cidade para reconciliar o passado com o presente, acaba tendo que lutar em defesa da honra da China.</info>
+<genre>AÇÃO</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
